@@ -1,6 +1,6 @@
 # unit2: Communication System
 
-## Planinng
+## Planing
 ### Context
 
 ```.c
