@@ -1,8 +1,8 @@
 # unit2: Communication System
 
-## Planing
+## Planning
 ### Context
-
+![planning](dylan.png)
 ```.c
 for(int i=0)
 
